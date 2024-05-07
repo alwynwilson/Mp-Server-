@@ -1,0 +1,53 @@
+{
+  "allVideos": [
+    {
+      "id": "293f",
+      "caption": "Avesham",
+      "imgURL": "https://tse1.mm.bing.net/th?id=OIP.yRAeJYYp6kE0zDyp09VkPwHaD2&pid=Api&P=0&h=180",
+      "youtubeURL": "https://www.youtube.com/embed/WpIDez53SK4"
+    },
+    {
+      "id": "9f37",
+      "caption": "Hridhayam",
+      "imgURL": "https://1847884116.rsc.cdn77.org/malayalam/home/vineeth84-217449776_771714980188799_1593890362010858904_n.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/8EqDwMH3o1A"
+    },
+    {
+      "id": "ad60",
+      "caption": "Supa Striker",
+      "imgURL": "https://wallpaperaccess.com/full/2597980.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/rWnzjf6UPy0"
+    }
+  ],
+  "history": [
+    {
+      "id": "ebd7",
+      "caption": "Hridhayam",
+      "youtubeURL": "https://www.youtube.com/embed/8EqDwMH3o1A",
+      "timeStamp": "5/6/2024, 10:06:21 AM GMT+5:30"
+    },
+    {
+      "id": "eafe",
+      "caption": "Hridhayam",
+      "youtubeURL": "https://www.youtube.com/embed/8EqDwMH3o1A",
+      "timeStamp": "5/6/2024, 10:14:09 AM GMT+5:30"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "541e",
+      "categoryName": "Movies",
+      "allVideos": []
+    },
+    {
+      "id": "f509",
+      "categoryName": "Trailers",
+      "allVideos": []
+    },
+    {
+      "id": "24e2",
+      "categoryName": "songs",
+      "allVideos": []
+    }
+  ]
+}
